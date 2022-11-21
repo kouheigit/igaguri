@@ -1,16 +1,16 @@
 ﻿<Properties StartupConfiguration="{06B7EA63-A290-149F-4972-D19927A535CC}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/IgaguriController.cs">
     <Files>
-      <File FileName="Assets/IgaguriController.cs" Line="22" Column="42" />
-      <File FileName="Assets/IgaguriPrefab.cs" Line="8" Column="1" />
-      <File FileName="Assets/IgaguriGenerator.cs" Line="18" Column="89" />
+      <File FileName="Assets/IgaguriPrefab.cs" Line="1" Column="1" />
+      <File FileName="Assets/NewBehaviourScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/IgaguriController.cs" Line="17" Column="42" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="igaguri" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="IgaguriController.cs" selected="True" />
+              <Node name="IgaguriPrefab.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -19,7 +19,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2c7c6e79-dbc9-4976-b961-f429e299e489" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="139aa087-4160-4df5-9032-790184357964" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
