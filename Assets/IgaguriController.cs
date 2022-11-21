@@ -10,10 +10,15 @@ public class IgaguriController : MonoBehaviour
         GetComponent<Rigidbody>().AddForce(dir);
     }
 
+    private void OnCollisionEnter(Collision other)
+    {
+        GetComponent<Rigidbody>().isKinematic = true;
+    }
+
     // Update is called once per frame
     void Start()
     {
         Application.targetFrameRate = 60;
-        Shoot(new Vector3(0, 200, 2000));
+        //Shoot(new Vector3(0, 200, 2000));
     }
 }

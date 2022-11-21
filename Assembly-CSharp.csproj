@@ -58,7 +58,7 @@
   <ItemGroup>
     <Compile Include="Assets/IgaguriPrefab.cs" />
     <Compile Include="Assets/IgaguriController.cs" />
-    <Compile Include="Assets/NewBehaviourScript.cs" />
+    <Compile Include="Assets/IgaguriGenerator.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
