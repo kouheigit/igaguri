@@ -436,7 +436,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e5651818d875f40baa442c109a003f99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  igaguriPrefab: {fileID: 6945296405245032431, guid: 37e8e0d3f9e3646f39556bdb2c54d930, type: 3}
+  igaguriPrefab: {fileID: 7862464357329916290, guid: 7c2e9c95801e741f68d746ea8217b941, type: 3}
 --- !u!1001 &1395322403
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -514,7 +514,7 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 3.8, y: 3.8, z: 1}
   m_Center: {x: 0, y: 6.5, z: 0}
---- !u!1001 &7828328836930359760
+--- !u!1001 &7051647991619450813
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -522,54 +522,54 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 6945296405245032431, guid: 37e8e0d3f9e3646f39556bdb2c54d930, type: 3}
-      propertyPath: m_Name
-      value: igaguri
-      objectReference: {fileID: 0}
-    - target: {fileID: 7721833761970400597, guid: 37e8e0d3f9e3646f39556bdb2c54d930, type: 3}
+    - target: {fileID: 7374298050625375032, guid: 7c2e9c95801e741f68d746ea8217b941, type: 3}
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 7721833761970400597, guid: 37e8e0d3f9e3646f39556bdb2c54d930, type: 3}
+    - target: {fileID: 7374298050625375032, guid: 7c2e9c95801e741f68d746ea8217b941, type: 3}
       propertyPath: m_LocalPosition.x
       value: 25.344685
       objectReference: {fileID: 0}
-    - target: {fileID: 7721833761970400597, guid: 37e8e0d3f9e3646f39556bdb2c54d930, type: 3}
+    - target: {fileID: 7374298050625375032, guid: 7c2e9c95801e741f68d746ea8217b941, type: 3}
       propertyPath: m_LocalPosition.y
       value: 6.4857783
       objectReference: {fileID: 0}
-    - target: {fileID: 7721833761970400597, guid: 37e8e0d3f9e3646f39556bdb2c54d930, type: 3}
+    - target: {fileID: 7374298050625375032, guid: 7c2e9c95801e741f68d746ea8217b941, type: 3}
       propertyPath: m_LocalPosition.z
       value: -0.05
       objectReference: {fileID: 0}
-    - target: {fileID: 7721833761970400597, guid: 37e8e0d3f9e3646f39556bdb2c54d930, type: 3}
+    - target: {fileID: 7374298050625375032, guid: 7c2e9c95801e741f68d746ea8217b941, type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 7721833761970400597, guid: 37e8e0d3f9e3646f39556bdb2c54d930, type: 3}
+    - target: {fileID: 7374298050625375032, guid: 7c2e9c95801e741f68d746ea8217b941, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7721833761970400597, guid: 37e8e0d3f9e3646f39556bdb2c54d930, type: 3}
+    - target: {fileID: 7374298050625375032, guid: 7c2e9c95801e741f68d746ea8217b941, type: 3}
       propertyPath: m_LocalRotation.y
       value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: 7721833761970400597, guid: 37e8e0d3f9e3646f39556bdb2c54d930, type: 3}
+    - target: {fileID: 7374298050625375032, guid: 7c2e9c95801e741f68d746ea8217b941, type: 3}
       propertyPath: m_LocalRotation.z
       value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: 7721833761970400597, guid: 37e8e0d3f9e3646f39556bdb2c54d930, type: 3}
+    - target: {fileID: 7374298050625375032, guid: 7c2e9c95801e741f68d746ea8217b941, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7721833761970400597, guid: 37e8e0d3f9e3646f39556bdb2c54d930, type: 3}
+    - target: {fileID: 7374298050625375032, guid: 7c2e9c95801e741f68d746ea8217b941, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7721833761970400597, guid: 37e8e0d3f9e3646f39556bdb2c54d930, type: 3}
+    - target: {fileID: 7374298050625375032, guid: 7c2e9c95801e741f68d746ea8217b941, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7862464357329916290, guid: 7c2e9c95801e741f68d746ea8217b941, type: 3}
+      propertyPath: m_Name
+      value: igaguri
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
-  m_SourcePrefab: {fileID: 100100000, guid: 37e8e0d3f9e3646f39556bdb2c54d930, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 7c2e9c95801e741f68d746ea8217b941, type: 3}

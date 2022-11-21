@@ -13,6 +13,7 @@ public class IgaguriController : MonoBehaviour
     private void OnCollisionEnter(Collision other)
     {
         GetComponent<Rigidbody>().isKinematic = true;
+        GetComponent<ParticleSystem>().Play();
     }
 
     // Update is called once per frame
